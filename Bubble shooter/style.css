@@ -1,0 +1,21 @@
+/* canvas{
+    height:600px;
+    width:800px;
+} */
+body{
+    background-image: url("catbg.png");
+}
+#back{
+    /* justify-content: center;
+    align-items: center; */
+    text-align: center;
+}
+button{
+    margin-top: 20px;
+    background-color:brown;
+
+}
+a{
+    text-decoration: none;
+    color:antiquewhite
+}
